@@ -21,7 +21,7 @@ Instead of simply restricting access, activeApe encourages discipline in a fun, 
 
 ## 🛠️ Tech Stack  
 
-- JavaScript (Vanilla)  
+- JavaScript
 - HTML5  
 - CSS3  
 - Chrome Extension Manifest V3  
@@ -78,7 +78,7 @@ ActiveApe/
 
 4. Click *Load Unpacked*.
 
-5. Select the ActiveApe project folder.
+5. Select the activeApe project folder.
 
 The extension should now be installed and ready to use.
 
@@ -102,6 +102,7 @@ The extension should now be installed and ready to use.
 - Leaderboards and social features  
 - Improved pose smoothing and scoring accuracy  
 - Monitization via ads
+  
 ---
 
 ## 📌 License  
