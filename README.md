@@ -105,6 +105,7 @@ The extension should now be installed and ready to use.
 - Improved pose smoothing and scoring accuracy  
 - Monitization via ads
 
+"Gen Alpha"-ed description
 ## 🦍 activeApe: The Ultimate Aura Booster
 
 **activeApe** is the first productivity Chrome extension that isn't mid. We’re stopping the infinite scroll and the brain rot by locking your distractions behind real-life side quests. If you want to get back to the 10-hour "Sigma Male Core" loops on YouTube, you’re gonna have to move for it.
