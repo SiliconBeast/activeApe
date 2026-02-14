@@ -2,7 +2,7 @@
 
 activeApe is a gamified productivity Chrome extension that helps users stay focused by blocking distracting websites and requiring AI-powered physical challenges to unlock them.
 
-Instead of simply restricting access, activeApe encourages discipline in a fun, interactive, competitive and engaging way.
+Instead of simply restricting access, activeApe encourages discipline in a fun, interactive, competitive and engaging way. 
 
 ---
 
@@ -15,6 +15,7 @@ Instead of simply restricting access, activeApe encourages discipline in a fun, 
 - 🎮 *Gamification System* – Earn XP, level up, and track progress
 - 👥 *Social Features* - Compete with friends with updated leaderboard feature - brag about how healthy you are becoming rather than flexing about how messed up your sleep cycle is
 - 💰 *Ads Available* - Watch Ads to earn bonus XP and level up quickly (coming soon)
+- 🍅 *Pomodoro Integration* - Adding Pomodoro technique integrated directly in app 
 
 ---
 
