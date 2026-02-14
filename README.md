@@ -51,7 +51,7 @@ Instead of simply restricting access, activeApe encourages discipline in a fun, 
 
 ## 📂 Project Structure  
 
-
+```text
 ActiveApe/
 │
 ├── background.js        # Timer and blocking logic
@@ -61,7 +61,7 @@ ActiveApe/
 ├── lib/                 # MediaPipe models
 └── manifest.json        # Extension configuration
 
-
+```
 ---
 
 ## ⚙️ Installation  
@@ -201,9 +201,3 @@ Developed for the grind (hackathons). No forking without permission or you lose 
 
 ---
 
-**Would you like me to generate a "Brain Rot" glossary for the developers so they understand the vision?**
----
-
-## 📌 License  
-
-This project was developed for educational and hackathon purposes and can't be forked without permission. Copyright 2026
