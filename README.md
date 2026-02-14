@@ -1,6 +1,6 @@
 # 🦍 activeApe  
 
-*(Gen Alpha desciption at the end)*
+*("Gen Alpha"-ed description at the end)*
 
 activeApe is a gamified productivity Chrome extension that helps users stay focused by setting timer based usage to website and requiring AI-powered physical challenges to unlock them - this makes our product fun, distracting (in a healthier way) and stands out as a perfect app for non-uncs.
 
